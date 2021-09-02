@@ -24,21 +24,7 @@ module.exports = {
         display: 'swap'
       }
     },
-    // {
-    //   resolve: `gatsby-plugin-prefetch-google-fonts`,
-    //   options: {
-    //     fonts: [
-    //       {
-    //         family: `Oswald`,
-    //         subsets: [`latin`],
-    //       },
-    //       {
-    //         family: `Open Sans`,
-    //         variants: [`400`, `700`]
-    //       }
-    //     ]
-    //   }
-    // },
+
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
