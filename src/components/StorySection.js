@@ -26,8 +26,7 @@ const StorySection = () => {
             <StaticImage
 
               height="100%"
-              wifth="auto"
-              src="../images/storyImage.svg"
+              src="../images/logo.png"
             />
           </div>
         </div>
