@@ -6,6 +6,8 @@ import subscribe from '../images/sub.png'
 
 const Div = Styled.div`
   background: url(${pattern}), linear-gradient(90.05deg, #FF5D41 8.96%, #FF667A 84.28%);
+  position:relative;
+  top:-100px;
   /* min-height: 200px; */
   width : 100%;
   border-radius : 20px;

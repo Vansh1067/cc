@@ -45,7 +45,7 @@ const HeroSection = () => {
           <div className="d-flex flex-column justify-content-center align-items-center mt-5 pt-5 animate__animated animate__bounce animate__delay-1s">
             <h1 className="display-1 py-3 px-2 rounded m-0 fw-bold text--uppercase" style={{ backgroundColor: "white", color: "#D9AC57", transform: "rotate(2deg)", boxShadow: "12px 12px 2px 1px rgba(132, 92, 13, .2)" }}>CHULLAH</h1>
             <h1 className="display-1 py-2 px-5 rounded text-white m-0 fw-bold" style={{ backgroundColor: "#D9AC57", transform: "rotate(-5deg)", boxShadow: "12px 12px 2px 1px rgba(132, 92, 13, .2)" }}>CHIMTA
-              <h6 className="fw-bold text-center" style={{ letterSpacing: "3px", wordSpacing: "4px", color: "#a46b00" }} >GHAR KA SWAD</h6></h1>
+              <h6 className="fw-bold text-center" style={{ letterSpacing: "3px", wordSpacing: "4px", color: "#a46b00" }} >GHAR SA SWAD</h6></h1>
 
             <div>
               <H5 className="mt-5 fw-bold" style={{ color: "brown" }}>Coming Soon</H5>

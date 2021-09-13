@@ -4,16 +4,17 @@ import '../style/global.css'
 
 import HeroSection from "../components/HeroSection"
 import SS from '../components/StorySection'
-import WillBeOnlineIn from "../components/WillBeOnlineIn"
+
 import Subscribe from '../components/Subscribe'
 import Footer from '../components/Footer'
 
 const IndexPage = () => (
   <>
+   
     <Navbar />
     <HeroSection />
-    <SS />
-    <WillBeOnlineIn />
+    <SS  />
+   
     <Subscribe />
     <Footer />
   </>
